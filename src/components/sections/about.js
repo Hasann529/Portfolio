@@ -132,7 +132,7 @@ const About = () => {
     'React.js',
     'Node.js',
     'Next.js',
-    'Firebase',
+    'Spring Boot',
     'C/C++',
     'Git',
     'Java',
@@ -146,46 +146,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! My name is Wali and I like to code beautiful and functional things for
-              the web. In the evenings, you can find me around the streets of Budapest, or alongside
-              the Danube river,
-              <a href="https://www.instagram.com/sardarwaliullah/">behind the lens</a>,{' '}
-              photographing the city and its life through a unique perspective. I also love music,
-              and building computers.
+              Hello there! My name is <span style={{color:"#BBE1DD"}}>Hasan</span> and I am a <span style={{color:"#BBE1DD"}}>Software Engineer</span> with solid expertise in developing large-scale web applications. I have strong problem-solving skills in data structures & algorithms. Additionally, I possess solid low level design and system design skills. Technology is not a restriction for me as I'm a quick learner & pick up a new tech stack within a short span of time.
             </p>
-            <p>
+            {/* <p>
               My interest in Computers and Robotics started back in 2015 when I built and programmed
               my first modular robot using RobotC and a Lego NXT 2.0 Kit. The robots that I built
               and programmed as a novice won several of the national competitions that I
               participated in, and it only ignited my passion for learning new programming languages
               and technologies even further.
-            </p>
+            </p> */}
 
             <p>
-              Fast-forward to today, I have completed my bachelors in Computer Science Engineering
-              from Budapest University of Technology and Economics,{' '}
-              <a href="https://www.bme.hu/?language=en"> BME </a>, class of 2023. I’ve had the
-              privilege of working at{' '}
-              <a href="https://www.mckinsey.com/">world’s leading consulting firm</a>,{' '}
-              <a href="https://corporate.exxonmobil.com/">one of the Fortune 500s</a>, teaching Java
-              and Python at an{' '}
-              <a href="https://www.hkcodingcamp.com/">online coding education start-up</a>, and
-              mentoring foreign scholarship students for{' '}
-              <a href="https://shmentor.hu/"> Hungarian Union of Students</a>.
+              Fast-forward to today, I have completed my bachelors
+              from 
+              <a href="https://www.manit.ac.in/" target='_blank'> National Institute of Technology Bhopal </a>, batch of 2021. 
             </p>
 
-            <p>
-              My main focus these days is driving and innovating the digital transforation
-              of our clients by leveraging the latest technologies and harnessing the power of data
-              at{' '}
-              <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients">McKinsey Digital</a>.
-            </p>
+
 
             <p>Here are a few technologies I’ve been working with/learning about:</p>
           </div>
 
           <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li style={{color:"white"}} key={i}>{skill}</li>)}
+            {skills && skills.map((skill, i) => <li style={{color:"#CCE1DD"}} key={i}>{skill}</li>)}
           </ul>
         </StyledText>
 

@@ -7,6 +7,7 @@ range: 'June 2023 - Present'
 url: 'https://www.cognitensor.com/'
 ---
 
-- Develop and test new features for Front-End that help us automate and effectuate client on-boarding experience by reducing manual input and offline account management. This resulted in a constantly growing customer satisfaction by speeding up vendor registrations.
-- Stabilize the team by becoming a T-Shaped developer by learning of DevOps &amp; QA. Validate and tackle live prod bugs related to client accounts.
-- Migrate internal applications and services from OpenShift &amp; TFS to more flexible platforms like Azure &amp; ADO.
+- Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.
+- Automated and centralized ESG data from multiple sources for comprehensive compliance reporting (BRSR, GRI, UN SDGs), enabling real-time    assessment and optimization of Environment, Social, and Governance KPIs.
+- Developed and implemented the Infomerics 4i creditrating methodology, enhancing the accuracy and reliability of credit assessments through comprehensive data analysis and qualitative evaluation.
+- Harnessing the power of data and and artificial intelligence to solve complex business problems.

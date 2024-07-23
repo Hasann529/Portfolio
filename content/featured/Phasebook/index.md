@@ -1,15 +1,16 @@
 ---
-date: '2'
-title: 'Phasebook'
-cover: './phasebook.png'
-github: 'https://github.com/SABERGLOW/facebook-clone-react'
-external: 'https://saberglow.github.io/facebook-clone-react/'
+date: '1'
+title: 'Social Media'
+cover: './socialmedia.png'
+github: 'https://github.com/Hasann529/Social-Media-App'
+external: 'https://github.com/Hasann529/Social-Media-App'
 tech:
   - React
-  - Material UI
-  - Firebase
-  - GitHub Pages
-  - GitHub Actions
+  - Redux
+  - Node.js
+  - MongoDB
+  - SASS
+  - RestAPI
 ---
 
-🚀 A simple and responsive Facebook clone with ReactJS, Material UI, Firebase Auth, and Firestore. Live demo available [here](https://saberglow.github.io/facebook-clone-react/), powered by [GitHub Pages](https://pages.github.com/).
+🙋 Web-App that allows users to share memories, providing a convenient, efficient solution for interacting with each other.

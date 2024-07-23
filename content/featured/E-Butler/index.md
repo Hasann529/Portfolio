@@ -1,18 +1,16 @@
 ---
-date: '4'
-title: 'E-Butler'
-cover: './ebutler.png'
-github: 'https://github.com/SABERGLOW/E-Butler'
-external: 'https://github.com/SABERGLOW/E-Butler'
+date: '0'
+title: 'E-Commerce'
+cover: './ecommerce.png'
+github: 'https://github.com/Hasann529/Ecommerce-MERN'
+external: 'https://github.com/Hasann529/Ecommerce-MERN'
 tech:
-  - PlatformIO
-  - NodeMCU-ESP8266
-  - Firebase Cloud Messaging
-  - Firebase RTDB
-  - Firebase Functions
-  - Google Assistant
-  - Dialogflow
-  - Kotlin
+  - React
+  - Redux
+  - Node.js
+  - MongoDB
+  - SASS
+  - RestAPI
 ---
 
-🛎️ Home Automation Tools using NodeMCU-ESP8266 featuring realtime notifications about door lock/unlock status.
+🛎️ Built an end to end E-commerce platform for influencers to set up their stores and sell merch online.

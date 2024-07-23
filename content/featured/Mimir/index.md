@@ -1,19 +1,15 @@
 ---
-date: '0'
-title: 'Mimir'
-cover: './mimir.png'
-github: 'https://github.com/SABERGLOW/Mimir'
-external: 'https://mimir-saberglow.vercel.app/'
+date: '2'
+title: 'Netflix Clone'
+cover: './netflix.png'
+github: 'https://github.com/Hasann529/Netflix-Clone'
+external: 'https://netflix-clone-snowy-alpha.vercel.app/signup'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Supabase
-  - Apollo
-  - GraphQL
-  - StepZen
-  - NextAuth.js + RedditAuth
-  - Cypress
-  - UI Ball
+  - React
+  - Redux
+  - Firebase
+  - SASS
+  - WebAPIs
 ---
 
-🙋 An online forum-based knowledge hub for students using Next.js & Tailwind CSS. Live Demo hosted at [Vercel](https://mimir-saberglow.vercel.app/).
+🙋 Built a Netflix Clone with Firebase for Authentication, Public API and Redux for state management .
