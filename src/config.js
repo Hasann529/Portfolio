@@ -14,10 +14,10 @@ module.exports = {
       name: 'Instagram',
       url: 'https://leetcode.com/u/Hasann/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/SardarWaliUllah',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/SardarWaliUllah',
+    // },
   ],
 
   navLinks: [

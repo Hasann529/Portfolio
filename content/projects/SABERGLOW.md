@@ -1,12 +1,13 @@
 ---
 date: '2022-05-01'
-title: 'GitHub Readme Profile'
-github: 'https://github.com/SABERGLOW/SABERGLOW'
-external: 'https://github.com/SABERGLOW'
+title: 'Password Generator'
+github: 'https://github.com/Hasann529/Password-Generator'
+external: 'https://password-generator-hasann529.vercel.app/'
 tech:
-  - GitHub Markdown
-  - Readme Profile
-  - GitHub Stats Cards
+  - React
+  - Material UI
+  - JavaScript
+  - CSS
 ---
 
-🌚 My personalized GithHub profile repo.
+🌚 Built a password generator, where you can generate password based on alphabets , digits and special characters.

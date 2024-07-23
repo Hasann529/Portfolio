@@ -1,8 +1,8 @@
 ---
 date: '2022-07-20'
-title: 'waliullah.dev'
-github: 'https://github.com/SABERGLOW/waliullah.dev'
-external: 'https://github.com/SABERGLOW/waliullah.dev'
+title: 'Hasann.me'
+github: 'https://github.com/Hasann529/Portfolio'
+external: 'https://www.hasann.me/'
 tech:
   - Gatsby JS
   - React
